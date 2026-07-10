@@ -66,6 +66,7 @@ The database seeding script creates sample Administrator and Team Member account
 
 ---
 
+
 ## 📁 Repository Structure
 
 ```
