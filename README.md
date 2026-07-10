@@ -25,6 +25,7 @@ Follow these instructions to run the application locally on your machine.
 
 - [Node.js](https://nodejs.org/) (v16.0 or higher recommended)
 - [MongoDB](https://www.mongodb.com/) (running locally or a MongoDB Atlas connection string)
+- 
 
 ### 1. Project Setup
 Configure your environment variables in the root directory. A `.env` file has been pre-configured for local MongoDB access:
