@@ -30,6 +30,7 @@ Follow these instructions to run the application locally on your machine.
 Configure your environment variables in the root directory. A `.env` file has been pre-configured for local MongoDB access:
 - File location: `.env`
 - Pre-filled MongoDB URI: `mongodb://127.0.0.1:27017/team_task_manager`
+- 
 
 ### 2. Install Dependencies
 Run the following command at the root directory to install all packages for both frontend and backend concurrently:
