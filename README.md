@@ -43,6 +43,7 @@ Populate the database with default projects, tasks, user roles, and activity log
 npm run seed --prefix backend
 ```
 
+
 ### 4. Launch the Development Environment
 Run the unified command at the root workspace to launch the Express API and the Vite React server concurrently:
 ```bash
