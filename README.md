@@ -2,7 +2,6 @@
 
 A complete, production-ready full-stack Team Task Management platform built with React, Node.js (Express), MongoDB (Mongoose), and Tailwind CSS. It supports advanced user management, role-based permissions (Admins & Members), interactive Kanban boards, activity audit timelines, and customizable analytics dashboards.
 
-
 ---
 
 
