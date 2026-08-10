@@ -11,7 +11,6 @@ A complete, production-ready full-stack Team Task Management platform built with
 - **Security:** JWT (JSON Web Tokens), Bcrypt.js (password hashing), Helmet (HTTP security headers), Express Rate Limit (API and auth endpoint throttling).
 
 ---
-
 ## 🚀 Getting Started
 
 Follow these instructions to run the application locally on your machine.
