@@ -4,7 +4,6 @@ A complete, production-ready full-stack Team Task Management platform built with
 
 ---
 
-
 ## 🛠️ Technology Stack
 
 - **Frontend:** React.js, Vite, Tailwind CSS v4, React Router v6, custom Fetch/Axios API client, Context API, Lucide Icons.
