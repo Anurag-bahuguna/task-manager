@@ -1,7 +1,6 @@
 # Team Task Manager - Project Specification
 
 ## Overview
-
 A task management platform with role-based access control (Admin/Member) built for efficiency and team collaboration.
 
 ## Data Models
