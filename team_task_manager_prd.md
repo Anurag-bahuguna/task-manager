@@ -5,7 +5,7 @@ A task management platform with role-based access control (Admin/Member) built f
 
 ## Data Models
 
-### Users
+### Users 
 - id, name, email, password, role (Admin/Member), profileImage, createdAt
 
 ### Projects
